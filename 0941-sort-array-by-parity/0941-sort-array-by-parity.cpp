@@ -1,10 +1,9 @@
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& nums) {
-        int i=0,j,k=0,n=nums.size();
-        for(i=0;i<n;i++)
+        for(int i=0,k=0;i<nums.size();i++)
         {
-            if(!(nums[i]&1))
+            if(!(nums[i]&1)) //& checking for given element is even or not
             swap(nums[k++],nums[i]);
         }
         return nums;
