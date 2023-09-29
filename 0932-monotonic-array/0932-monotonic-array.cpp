@@ -8,16 +8,10 @@ public:
             {
                 if(nums[i]>=nums[i+1])
                 f++;
+                 if(nums[i]<=nums[i+1])
+                g++;
             }
-            if(f==n-1)
-            return true;
-            f=0;
-             for(i=0;i<n-1;i++)
-            {
-                if(nums[i]<=nums[i+1])
-                f++;
-            }
-            if(f==n-1)
+            if(f==n-1 or g==n-1)
             return true;
             return false;
     }
