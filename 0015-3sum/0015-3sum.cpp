@@ -6,6 +6,8 @@ public:
         sort(nums.begin(),nums.end());
         for(i=0;i<n-2;i++)
         {
+             if(i>0 and nums[i]==nums[i-1]) 
+                 continue;
             x=-nums[i];
             l=i+1,r=n-1;
             while(l<r)
@@ -16,16 +18,14 @@ public:
                   l++;
                 else
                 {
-                    vector<int> ve={nums[i],nums[l],nums[r]};
-                    v.push_back(ve);
-                    while (l<r && nums[l] == ve[1]) 
+                    v.push_back({nums[i],nums[l],nums[r]});
+                     l++,r--;
+                    while(l<r and nums[l] == nums[l-1]) 
                         l++;
-                    while(l<r && nums[r] ==ve[2]) 
+                    while(l<r and nums[r] == nums[r+1]) 
                         r--;
                 }  
             }
-            while (i+1<n and nums[i+1]==nums[i]) 
-            i++;
         }
         return v;
     }
