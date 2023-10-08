@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        set<vector<int>> v;
+        vector<vector<int>> v;
         int i,l,r,x,n=nums.size();
         sort(nums.begin(),nums.end());
         for(i=0;i<n-2;i++)
@@ -16,14 +16,17 @@ public:
                   l++;
                 else
                 {
-                    v.insert({nums[i],nums[l],nums[r]});
-                    l++,r--;
+                    vector<int> ve={nums[i],nums[l],nums[r]};
+                    v.push_back(ve);
+                    while (l<r && nums[l] == ve[1]) 
+                        l++;
+                    while(l<r && nums[r] ==ve[2]) 
+                        r--;
                 }  
             }
+            while (i+1<n and nums[i+1]==nums[i]) 
+            i++;
         }
-        vector<vector<int>> ans;
-        for(auto i:v)
-        ans.push_back(i);
-        return ans;
+        return v;
     }
 };
