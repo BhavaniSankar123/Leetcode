@@ -22,5 +22,10 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0136-single-number) |
 | [2350-find-closest-number-to-zero](https://github.com/BhavaniSankar123/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
