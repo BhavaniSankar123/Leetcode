@@ -1,15 +1,21 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-        map<int,int> mp;
-        for(int i:arr)
-        mp[i]++;
-        int ans=-1;
-        for(auto i:mp)
+       sort(arr.begin(),arr.end());
+       int ans=-1,n=arr.size(),c=1;
+       for(int i=1;i<n;i++)
+       {
+        if(arr[i-1]==arr[i])
+        c++;
+        else
         {
-            if(i.first==i.second)
-            ans=i.first;
+            if(arr[i-1]==c)
+            ans=c;
+            c=1;
         }
-        return ans;
+       }
+       if(arr[n-1]==c)
+       ans=c;
+       return ans;
     }
 };
