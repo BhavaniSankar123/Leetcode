@@ -30,6 +30,7 @@
 | [0119-pascals-triangle-ii](https://github.com/BhavaniSankar123/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0136-single-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/BhavaniSankar123/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -59,4 +60,16 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
