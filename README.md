@@ -63,13 +63,19 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/BhavaniSankar123/Leetcode/tree/master/0258-add-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/BhavaniSankar123/Leetcode/tree/master/0258-add-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BhavaniSankar123/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
