@@ -67,6 +67,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/BhavaniSankar123/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/BhavaniSankar123/Leetcode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/BhavaniSankar123/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/BhavaniSankar123/Leetcode/tree/master/0412-fizz-buzz) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
@@ -87,4 +88,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/BhavaniSankar123/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/BhavaniSankar123/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
