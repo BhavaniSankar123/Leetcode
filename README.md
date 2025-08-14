@@ -21,6 +21,7 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/BhavaniSankar123/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/BhavaniSankar123/Leetcode/tree/master/0412-fizz-buzz) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/BhavaniSankar123/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2580-circular-sentence](https://github.com/BhavaniSankar123/Leetcode/tree/master/2580-circular-sentence) |
 | [3396-valid-word](https://github.com/BhavaniSankar123/Leetcode/tree/master/3396-valid-word) |
 ## Array
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/BhavaniSankar123/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
