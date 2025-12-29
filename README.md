@@ -21,6 +21,7 @@
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/BhavaniSankar123/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/BhavaniSankar123/Leetcode/tree/master/0412-fizz-buzz) |
+| [0756-pyramid-transition-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/BhavaniSankar123/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/BhavaniSankar123/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2580-circular-sentence](https://github.com/BhavaniSankar123/Leetcode/tree/master/2580-circular-sentence) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0136-single-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/BhavaniSankar123/Leetcode/tree/master/0231-power-of-two) |
+| [0756-pyramid-transition-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
