@@ -1,29 +1,32 @@
 class Solution {
-public:
-    bool dfs(string curStr, int curI, int n,  unordered_map<string, vector<char>>& mp) {
-        if (n == 1) return true;
-        bool res = false;
-        if (curI < n - 1) {
-            string curBot = curStr.substr(curI, 2);
-            for (int i = 0; i < mp[curBot].size(); ++i) {
-                curStr[curI] = mp[curBot][i];
-                res |= dfs(curStr, curI + 1, n, mp);
-                if (res) return true;
+private:
+std::unordered_map<string, std::vector<char>> mp;
+std::unordered_map<string, bool> memo_;
+    bool dfs(string& previous, string current) { 
+        if (previous.size() == 1) { 
+            return true;
+        }
+        if (previous.length() - 1 == current.length()) {
+            if (memo_.contains(current)) { 
+                return memo_[current];
             }
-        } else {
-            res |= dfs(curStr, 0, n - 1, mp);
-            if (res) return true;
+            bool result = dfs(current, "");
+            memo_[current] = result;
+            return result;
         }
-
-        return res;
+        int idx = current.length();
+        for (const auto& top : mp[previous.substr(idx, 2)]) {
+            if (dfs(previous, current+top)) { 
+                return true;
+            }
+        }
+        return false;
     }
-
+public:
     bool pyramidTransition(string bottom, vector<string>& allowed) {
-        unordered_map<string, vector<char>> mp;
-        for (int i = 0; i < allowed.size(); ++i) {
-            mp[allowed[i].substr(0, 2)].push_back(allowed[i][2]);
+        for (const auto& triple : allowed) { 
+            mp[triple.substr(0,2)].push_back(triple.back());
         }
-
-        return dfs(bottom, 0, bottom.size(), mp);
+        return dfs(bottom, "");
     }
 };
