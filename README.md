@@ -40,6 +40,7 @@
 | [1470-shuffle-the-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/BhavaniSankar123/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -110,8 +112,21 @@
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/BhavaniSankar123/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Backtracking
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
