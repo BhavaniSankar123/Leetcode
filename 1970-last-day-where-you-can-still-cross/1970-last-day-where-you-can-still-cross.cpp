@@ -1,66 +1,41 @@
 class Solution {
 public:
-
-    int dx[4]={0,0,1,-1};
-    int dy[4]={1,-1,0,0};
-
-    bool solve(int days, vector<vector<int>> &cells, int row, int col)
-    {
-        vector<vector<int>> mat(row,vector<int>(col,0));
-        vector<vector<int>> vis(row,vector<int>(col,0));
-        for(int i=0;i<days;i++){
-            mat[cells[i][0]-1][cells[i][1]-1]=1;
-        }
-
-        queue<pair<int,int>> q;
-        for(int i=0;i<col;i++){
-            if(mat[0][i]==0) q.push({0,i});
-        }
-
-
-        if(!q.size()) return false;
-
-        while(!q.empty())
-        {
-            int x = q.front().first; int y = q.front().second; q.pop();
-            if(vis[x][y]) continue;
-            vis[x][y]=1;
-
-
-            if(x==row-1) return true;
-
-            for(int i=0;i<4;i++)
-            {
-                int x1 = x+dx[i]; int y1=y+dy[i];
-                if(x1>=0 && x1<row && y1>=0 && y1<col && !vis[x1][y1] && mat[x1][y1]==0)
-                {
-                    q.push({x1,y1});
+    int latestDayToCross(int row, int col, vector<vector<int>>& cells) {
+        int dx[] = {1,-1,0,0};
+        int dy[] = {0,0,1,-1};
+        auto check = [&](int t) -> bool {
+            vector<vector<char>> grid(row, vector<char>(col, 0));
+            for (int i=0; i<t; i++) {
+                grid[cells[i][0]-1][cells[i][1]-1] = 1;
+            }
+            queue<pair<int,int>> q;
+            for (int i=0; i<col; i++) {
+                if (!grid[0][i]) {
+                    q.push({0,i});
+                    grid[0][i] = 1;
                 }
             }
-        }
-        return false;
-
-    }
-
-    int latestDayToCross(int row, int col, vector<vector<int>>& cells) {
-
-        int n = cells.size();
-
-        int low =0; int high =n-1;
-
-        while(low<=high)
-        {
-            int mid = (low+high)/2;
-            bool ans = solve(mid,cells,row,col);
-            if(ans)
-            {
-                low=mid+1;
-            }else{
-                high=mid-1;
+            while (!q.empty()) {
+                auto [x,y] = q.front();
+                q.pop();
+                if (x == row-1) return true;
+                for (int i=0; i<4; i++) {
+                    int nx = x+dx[i], ny = y+dy[i];
+                    if (nx>=0 && nx<row && ny>=0 && ny<col && !grid[nx][ny]) {
+                        q.push({nx,ny});
+                        grid[nx][ny] = 1;
+                    }
+                }
             }
+            return false;
+        };
+
+        int low = 0, high = row*col;
+        while (high - low > 1) {
+            int mid = (high+low) >> 1;
+            if (check(mid)) low = mid;
+            else high = mid;
         }
-
-        return high;
-
+        return low;
     }
 };
