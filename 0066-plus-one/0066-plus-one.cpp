@@ -1,21 +1,23 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        int i,c=1;
-        for(i=digits.size()-1;i>=0;i--)
+        reverse(digits.begin(),digits.end());
+        int c=1,i=0,n=digits.size();
+        int add=digits[0]+1;
+        while(i<n)
         {
-            if(c)
-            {
-                c=(digits[i]+1)/10;
-                digits[i]=(digits[i]+1)%10;
-            }
-            else
-             break;
+            add = digits[i]+c;
+            digits[i]=add%10;
+            c= add/10;
+            add= digits[i];
+            i++;
+        }
+        if(c)
+        {
+            digits.push_back(1);
         }
         reverse(digits.begin(),digits.end());
-        if(c)
-        digits.push_back(1);
-        reverse(digits.begin(),digits.end());
         return digits;
+
     }
 };
