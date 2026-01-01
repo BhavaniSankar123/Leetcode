@@ -6,16 +6,17 @@ public:
         int add=digits[0]+1;
         while(i<n)
         {
-            add = digits[i]+c;
-            digits[i]=add%10;
-            c= add/10;
-            add= digits[i];
+            if(digits[i]<9)
+            {
+            digits[i]++;
+            reverse(digits.begin(),digits.end());
+            return digits;
+            }
+            digits[i]=0;
             i++;
         }
-        if(c)
-        {
-            digits.push_back(1);
-        }
+
+        digits.push_back(1);
         reverse(digits.begin(),digits.end());
         return digits;
 
