@@ -38,6 +38,7 @@
 | [0485-max-consecutive-ones](https://github.com/BhavaniSankar123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0840-magic-squares-in-grid](https://github.com/BhavaniSankar123/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -88,6 +89,7 @@
 | [0326-power-of-three](https://github.com/BhavaniSankar123/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/BhavaniSankar123/Leetcode/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/BhavaniSankar123/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
