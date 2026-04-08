@@ -47,6 +47,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/BhavaniSankar123/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BhavaniSankar123/Leetcode/tree/master/0053-maximum-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0657-robot-return-to-origin](https://github.com/BhavaniSankar123/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
 |  |
 | ------- |
