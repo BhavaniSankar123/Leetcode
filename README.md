@@ -42,6 +42,7 @@
 | [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/BhavaniSankar123/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
