@@ -23,6 +23,7 @@
 | [0412-fizz-buzz](https://github.com/BhavaniSankar123/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/BhavaniSankar123/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0756-pyramid-transition-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1816-truncate-sentence](https://github.com/BhavaniSankar123/Leetcode/tree/master/1816-truncate-sentence) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/BhavaniSankar123/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/BhavaniSankar123/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -43,6 +44,7 @@
 | [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1816-truncate-sentence](https://github.com/BhavaniSankar123/Leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/BhavaniSankar123/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
