@@ -25,6 +25,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/BhavaniSankar123/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/BhavaniSankar123/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2580-circular-sentence](https://github.com/BhavaniSankar123/Leetcode/tree/master/2580-circular-sentence) |
 | [3396-valid-word](https://github.com/BhavaniSankar123/Leetcode/tree/master/3396-valid-word) |
 ## Array
@@ -47,6 +48,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/BhavaniSankar123/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
