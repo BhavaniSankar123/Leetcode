@@ -6,8 +6,8 @@ public:
         while(i<n)
         {
             if(s[i]==' ')
-            c++;
-            if(c==k) break;
+            k--;
+            if(k==0) break;
             ans = ans + s[i];
             i++;
         }
