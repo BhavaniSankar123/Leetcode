@@ -28,6 +28,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/BhavaniSankar123/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2580-circular-sentence](https://github.com/BhavaniSankar123/Leetcode/tree/master/2580-circular-sentence) |
+| [2833-furthest-point-from-origin](https://github.com/BhavaniSankar123/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3396-valid-word](https://github.com/BhavaniSankar123/Leetcode/tree/master/3396-valid-word) |
 ## Array
 |  |
@@ -84,6 +85,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/BhavaniSankar123/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/BhavaniSankar123/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
 | ------- |
