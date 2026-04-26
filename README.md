@@ -54,6 +54,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/BhavaniSankar123/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/BhavaniSankar123/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Bit Manipulation
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Greedy
+|  |
+| ------- |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/BhavaniSankar123/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
