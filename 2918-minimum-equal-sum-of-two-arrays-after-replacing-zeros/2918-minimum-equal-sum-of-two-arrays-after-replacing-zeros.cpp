@@ -5,19 +5,18 @@ public:
         long long sum1=0,sum2=0;
         for(int i : nums1)
        {
-            if(i==0)
-            c1++;
+            if(i==0) c1++;
             sum1+=i;
        }
         for(int i : nums2)
         {
-            if(i==0)
-            c2++;
+            if(i==0) c2++;
             sum2+=i;
         }
-        // cout<<sum1<<" "<<sum2;
-        if((c1==0 && sum1 < sum2 + c2) or (c2==0 && sum2 < sum1 + c1))
-        return -1;
-        return max(sum1+c1,sum2+c2);
+        sum1+=c1;
+        sum2+=c2;
+        if (sum1 < sum2) return c1 ? sum2 : -1;
+        if (sum2 < sum1) return c2 ? sum1 : -1;
+        return sum1;
     }
 };
