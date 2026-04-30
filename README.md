@@ -99,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/BhavaniSankar123/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/BhavaniSankar123/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/BhavaniSankar123/Leetcode/tree/master/0258-add-digits) |
