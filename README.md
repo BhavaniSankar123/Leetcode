@@ -45,6 +45,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/BhavaniSankar123/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1816-truncate-sentence](https://github.com/BhavaniSankar123/Leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/BhavaniSankar123/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/BhavaniSankar123/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/BhavaniSankar123/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
