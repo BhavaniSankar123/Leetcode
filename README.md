@@ -107,6 +107,7 @@
 | [0840-magic-squares-in-grid](https://github.com/BhavaniSankar123/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2485-find-the-pivot-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/BhavaniSankar123/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
