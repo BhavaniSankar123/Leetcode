@@ -42,6 +42,7 @@
 | [0136-single-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/BhavaniSankar123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0840-magic-squares-in-grid](https://github.com/BhavaniSankar123/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1306-jump-game-iii](https://github.com/BhavaniSankar123/Leetcode/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -145,10 +146,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/BhavaniSankar123/Leetcode/tree/master/1306-jump-game-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/BhavaniSankar123/Leetcode/tree/master/1306-jump-game-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhavaniSankar123/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
