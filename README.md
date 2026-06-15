@@ -16,6 +16,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BhavaniSankar123/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhavaniSankar123/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -169,4 +170,8 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhavaniSankar123/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
