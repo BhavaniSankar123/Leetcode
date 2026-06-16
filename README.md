@@ -32,6 +32,7 @@
 | [2580-circular-sentence](https://github.com/BhavaniSankar123/Leetcode/tree/master/2580-circular-sentence) |
 | [2833-furthest-point-from-origin](https://github.com/BhavaniSankar123/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3396-valid-word](https://github.com/BhavaniSankar123/Leetcode/tree/master/3396-valid-word) |
+| [3612-process-string-with-special-operations-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0657-robot-return-to-origin](https://github.com/BhavaniSankar123/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
 |  |
