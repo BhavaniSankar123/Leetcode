@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BhavaniSankar123/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhavaniSankar123/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -43,6 +44,7 @@
 | [0118-pascals-triangle](https://github.com/BhavaniSankar123/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BhavaniSankar123/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/BhavaniSankar123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0840-magic-squares-in-grid](https://github.com/BhavaniSankar123/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1306-jump-game-iii](https://github.com/BhavaniSankar123/Leetcode/tree/master/1306-jump-game-iii) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/BhavaniSankar123/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/BhavaniSankar123/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/BhavaniSankar123/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/BhavaniSankar123/Leetcode/tree/master/0326-power-of-three) |
