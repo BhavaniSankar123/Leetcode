@@ -138,6 +138,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BhavaniSankar123/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/BhavaniSankar123/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/BhavaniSankar123/Leetcode/tree/master/0326-power-of-three) |
 ## Matrix
@@ -180,6 +181,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BhavaniSankar123/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BhavaniSankar123/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhavaniSankar123/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
