@@ -111,6 +111,7 @@
 | [0189-rotate-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/BhavaniSankar123/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/BhavaniSankar123/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/BhavaniSankar123/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/BhavaniSankar123/Leetcode/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/BhavaniSankar123/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -184,4 +185,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/BhavaniSankar123/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BhavaniSankar123/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhavaniSankar123/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
