@@ -11,22 +11,52 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* result;
-        result=NULL;
-        if(list1==NULL)
-        return list2;
-        else if(list2==NULL)
-        return list1;
-        if (list1->val<=list2->val)
+        if(list1 == nullptr) return list2;
+        if(list2 == nullptr) return list1;
+        ListNode* merge = nullptr;
+        while(list1 != nullptr && list2 != nullptr)
         {
-            result=list1;
-            result->next=mergeTwoLists(list1->next,list2);
+            int x;
+            if(list1->val <= list2->val)
+            {
+                x =list1->val;
+                list1 = list1->next;
+            }
+            else
+            {
+                x = list2->val;
+                list2 = list2->next;
+            }
+             ListNode* node = new ListNode(x);
+            if(merge == nullptr)
+                merge = node;
+            else
+            {
+                ListNode *temp = merge;
+                while(temp->next !=nullptr)
+                    temp = temp->next;
+                temp->next = node;  
+                // cout<<temp->val<<" ";            
+            }
         }
-        else
+        while(list1 != nullptr)
         {
-            result=list2;
-            result->next=mergeTwoLists(list1,list2->next);
+            ListNode* node = new ListNode(list1->val);
+            ListNode* temp = merge;
+            while(temp->next !=nullptr)
+                temp = temp->next;
+            temp->next = node;
+            list1 = list1->next;
         }
-        return result;
+        while(list2 != nullptr)
+        {
+            ListNode* node = new ListNode(list2->val);
+            ListNode* temp = merge;
+            while(temp->next !=nullptr)
+                temp = temp->next;
+            temp->next = node;
+            list2 = list2->next;
+        }
+        return merge;
     }
 };
