@@ -82,6 +82,7 @@
 | [0053-maximum-subarray](https://github.com/BhavaniSankar123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/BhavaniSankar123/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BhavaniSankar123/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [1025-divisor-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0326-power-of-three](https://github.com/BhavaniSankar123/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/BhavaniSankar123/Leetcode/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/BhavaniSankar123/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1025-divisor-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/1025-divisor-game) |
 | [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -189,8 +191,10 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
