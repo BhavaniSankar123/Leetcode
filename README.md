@@ -64,6 +64,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/BhavaniSankar123/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Bit Manipulation
 |  |
@@ -71,6 +72,7 @@
 | [0136-single-number](https://github.com/BhavaniSankar123/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/BhavaniSankar123/Leetcode/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/BhavaniSankar123/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/1025-divisor-game) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
