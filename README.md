@@ -122,6 +122,7 @@
 | [1390-four-divisors](https://github.com/BhavaniSankar123/Leetcode/tree/master/1390-four-divisors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/BhavaniSankar123/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0657-robot-return-to-origin](https://github.com/BhavaniSankar123/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/BhavaniSankar123/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BhavaniSankar123/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
@@ -200,4 +202,5 @@
 | ------- |
 | [0292-nim-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/1025-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/BhavaniSankar123/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
